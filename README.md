@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**msanchezher/msanchezher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Technical Lead & Software Architect** 🏗️  
+Passionate about designing **robust enterprise systems** and leading teams to build software that just works.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+- 🔹 Lead and architect Java & web projects  
+- 🔹 Drive **system migrations** and process improvements  
+- 🔹 Mentor teams & share best practices  
+
+### Always exploring
+- 🌱 New technologies & frameworks  
+- 🌱 Efficient and scalable software solutions  
+
+### Fun facts
+- ⛷️ Skiing enthusiast  
+- ⛳ Golf lover  
+- 💡 Lover of creative solutions in everyday life  
+
+---
+
+Let's build something **amazing**! 🚀
